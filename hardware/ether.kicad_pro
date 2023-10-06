@@ -111,8 +111,8 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.15,
-        "min_connection": 0.15,
+        "min_clearance": 0.09999999999999999,
+        "min_connection": 0.09999999999999999,
         "min_copper_edge_clearance": 0.19999999999999998,
         "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.25,
@@ -123,7 +123,7 @@
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.15,
+        "min_track_width": 0.09999999999999999,
         "min_via_annular_width": 0.09999999999999999,
         "min_via_diameter": 0.44999999999999996,
         "solder_mask_clearance": 0.0,
@@ -412,7 +412,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -422,8 +422,8 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "via_diameter": 0.5,
+        "track_width": 0.15,
+        "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -484,6 +484,14 @@
     [
       "4549bc5e-1e8c-414f-881d-1ff38d482663",
       ""
+    ],
+    [
+      "04d59cc1-caa5-4221-be77-74e558fdabc4",
+      "Power"
+    ],
+    [
+      "b6178f7e-3050-4c5f-b1c3-182f4712b669",
+      "Input Port"
     ]
   ],
   "text_variables": {}
