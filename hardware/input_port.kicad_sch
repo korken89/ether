@@ -4924,7 +4924,7 @@
   (symbol (lib_id "power:GND") (at 262.89 161.29 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0109bed6-11e5-4d8e-99df-f992d7fb573b)
-    (property "Reference" "#PWR0131" (at 256.54 161.29 0)
+    (property "Reference" "#PWR0331" (at 256.54 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 161.29 0)
@@ -4939,9 +4939,6 @@
     (pin "1" (uuid 8775693f-7394-49b1-b37b-ba392158f32e))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0131") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0331") (unit 1)
         )
@@ -4952,7 +4949,7 @@
   (symbol (lib_id "power:GND") (at 212.09 82.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e20ca03-caab-4513-8b2c-45d25adb28f4)
-    (property "Reference" "#PWR0119" (at 205.74 82.55 0)
+    (property "Reference" "#PWR0319" (at 205.74 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 82.55 0)
@@ -4967,9 +4964,6 @@
     (pin "1" (uuid 5f8e7d01-1368-49ee-8bfa-0545759cc2da))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0119") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0319") (unit 1)
         )
@@ -4980,7 +4974,7 @@
   (symbol (lib_id "power:GND") (at 212.09 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f7522c7-2b5a-478e-8913-5ebc3fece70e)
-    (property "Reference" "#PWR0121" (at 205.74 121.92 0)
+    (property "Reference" "#PWR0321" (at 205.74 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 121.92 0)
@@ -4995,9 +4989,6 @@
     (pin "1" (uuid 4da8f0c7-102e-4252-adf9-775cf76b191d))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0121") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0321") (unit 1)
         )
@@ -5008,7 +4999,7 @@
   (symbol (lib_id "power:GND") (at 160.02 195.58 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 13e7d761-98d0-4f8c-8e89-6868079d7bcd)
-    (property "Reference" "#PWR0116" (at 153.67 195.58 0)
+    (property "Reference" "#PWR0316" (at 153.67 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 195.58 0)
@@ -5023,9 +5014,6 @@
     (pin "1" (uuid 7bccbadf-c834-40d3-8cb5-091cd0e232b0))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0116") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0316") (unit 1)
         )
@@ -5036,7 +5024,7 @@
   (symbol (lib_id "power:GND") (at 262.89 77.47 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1977ca44-9614-4bab-a74d-1507054d4a43)
-    (property "Reference" "#PWR0126" (at 256.54 77.47 0)
+    (property "Reference" "#PWR0326" (at 256.54 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 77.47 0)
@@ -5051,9 +5039,6 @@
     (pin "1" (uuid 33d8d823-143b-45b3-8f9b-febcfb93a7b2))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0126") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0326") (unit 1)
         )
@@ -5064,7 +5049,7 @@
   (symbol (lib_id "power:GND") (at 160.02 116.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1bd41bc7-f1ed-45b7-a91d-bf756288747b)
-    (property "Reference" "#PWR0112" (at 153.67 116.84 0)
+    (property "Reference" "#PWR0312" (at 153.67 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 116.84 0)
@@ -5079,9 +5064,6 @@
     (pin "1" (uuid d2dccecc-23a2-4348-bc7d-e7f5ce205ac9))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0112") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0312") (unit 1)
         )
@@ -5141,7 +5123,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 119.38 146.05 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2426421f-05ec-43ef-b978-3cbd017e0cc2)
-    (property "Reference" "J101" (at 130.81 144.78 0)
+    (property "Reference" "J301" (at 130.81 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 130.81 147.32 0)
@@ -5370,9 +5352,6 @@
     (pin "9_16" (uuid b10e64b8-3274-4018-9782-f859b1980fd3))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 3)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 3)
         )
@@ -5383,7 +5362,7 @@
   (symbol (lib_id "power:GND") (at 104.14 77.47 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 273422bc-6933-4b75-bdf7-4b3366bf3b4f)
-    (property "Reference" "#PWR0102" (at 97.79 77.47 0)
+    (property "Reference" "#PWR0302" (at 97.79 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 77.47 0)
@@ -5398,9 +5377,6 @@
     (pin "1" (uuid 7b5d9c10-8db7-4de7-81b4-52e7cc918865))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0102") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0302") (unit 1)
         )
@@ -5411,7 +5387,7 @@
   (symbol (lib_id "power:GND") (at 262.89 195.58 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2968c860-0283-4680-9e72-1faf2a497c82)
-    (property "Reference" "#PWR0132" (at 256.54 195.58 0)
+    (property "Reference" "#PWR0332" (at 256.54 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 195.58 0)
@@ -5426,9 +5402,6 @@
     (pin "1" (uuid 402ba941-f97f-44ea-8231-356f0bc84c3a))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0132") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0332") (unit 1)
         )
@@ -5439,7 +5412,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 175.26 67.31 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40a4c023-fecd-4e9b-8699-38f45657a078)
-    (property "Reference" "J101" (at 186.69 66.04 0)
+    (property "Reference" "J301" (at 186.69 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 186.69 68.58 0)
@@ -5668,9 +5641,6 @@
     (pin "9_16" (uuid ff3f0da1-6adc-4fd3-80e7-e5eb89383e08))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 5)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 5)
         )
@@ -5681,7 +5651,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 175.26 185.42 0) (unit 8)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 435c7ed4-3634-4160-84f4-0cd77a160ad3)
-    (property "Reference" "J101" (at 186.69 184.15 0)
+    (property "Reference" "J301" (at 186.69 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 186.69 186.69 0)
@@ -5910,9 +5880,6 @@
     (pin "9_16" (uuid 976d9f7d-e616-4ac3-b7c6-06a513e6c948))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 8)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 8)
         )
@@ -5923,7 +5890,7 @@
   (symbol (lib_id "power:GND") (at 104.14 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 43760a25-5458-4435-bbe2-25d245cf8d47)
-    (property "Reference" "#PWR0105" (at 97.79 121.92 0)
+    (property "Reference" "#PWR0305" (at 97.79 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 121.92 0)
@@ -5938,9 +5905,6 @@
     (pin "1" (uuid d380d0a6-a398-4087-a5c4-1db0b5c6fed8))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0105") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0305") (unit 1)
         )
@@ -5951,7 +5915,7 @@
   (symbol (lib_id "power:GND") (at 262.89 200.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 46bf25e3-e62f-4652-9056-2c9944de3aa4)
-    (property "Reference" "#PWR0133" (at 256.54 200.66 0)
+    (property "Reference" "#PWR0333" (at 256.54 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 200.66 0)
@@ -5966,9 +5930,6 @@
     (pin "1" (uuid ad1f1cc3-53f7-4a57-afc2-36ab62a35761))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0133") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0333") (unit 1)
         )
@@ -5979,7 +5940,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 278.13 146.05 0) (unit 15)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4785c65d-7f63-42fe-af02-1665e82cc17b)
-    (property "Reference" "J101" (at 289.56 144.78 0)
+    (property "Reference" "J301" (at 289.56 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 289.56 147.32 0)
@@ -6208,9 +6169,6 @@
     (pin "9_16" (uuid d2d8bb98-44d6-4476-8446-db6bf17a2bc4))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 15)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 15)
         )
@@ -6221,7 +6179,7 @@
   (symbol (lib_id "power:GND") (at 104.14 161.29 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4872aa6a-d551-4099-9493-420c6ff0aa1f)
-    (property "Reference" "#PWR0107" (at 97.79 161.29 0)
+    (property "Reference" "#PWR0307" (at 97.79 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 161.29 0)
@@ -6236,9 +6194,6 @@
     (pin "1" (uuid 2d792e87-8ce9-4eeb-8342-37dbafd815df))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0107") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0307") (unit 1)
         )
@@ -6249,7 +6204,7 @@
   (symbol (lib_id "power:GND") (at 160.02 82.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5629a4c4-a39f-4a74-a182-072eecf85b54)
-    (property "Reference" "#PWR0111" (at 153.67 82.55 0)
+    (property "Reference" "#PWR0311" (at 153.67 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 82.55 0)
@@ -6264,9 +6219,6 @@
     (pin "1" (uuid 0bad3ab6-bc03-4659-b31f-bf6404610cdc))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0111") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0311") (unit 1)
         )
@@ -6277,7 +6229,7 @@
   (symbol (lib_id "power:GND") (at 104.14 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5832c0b9-9963-4b79-bf34-603f97f5dfa6)
-    (property "Reference" "#PWR0101" (at 97.79 72.39 0)
+    (property "Reference" "#PWR0301" (at 97.79 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 72.39 0)
@@ -6292,9 +6244,6 @@
     (pin "1" (uuid 946640b4-4995-481e-8675-7cb4b540cc20))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0101") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0301") (unit 1)
         )
@@ -6305,7 +6254,7 @@
   (symbol (lib_id "power:GND") (at 160.02 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 58efaf74-a692-4e9d-9afd-49c2455e1417)
-    (property "Reference" "#PWR0114" (at 153.67 156.21 0)
+    (property "Reference" "#PWR0314" (at 153.67 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 156.21 0)
@@ -6320,9 +6269,6 @@
     (pin "1" (uuid 7ce4fa48-325b-4af8-824d-1210b1aeb556))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0114") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0314") (unit 1)
         )
@@ -6333,7 +6279,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 227.33 106.68 0) (unit 10)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ad2b7dc-342e-4051-99b6-e6bc2c94ff24)
-    (property "Reference" "J101" (at 238.76 105.41 0)
+    (property "Reference" "J301" (at 238.76 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 238.76 107.95 0)
@@ -6562,9 +6508,6 @@
     (pin "9_16" (uuid faac6c7f-3301-4797-b382-19ae9d2cb717))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 10)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 10)
         )
@@ -6575,7 +6518,7 @@
   (symbol (lib_id "power:GND") (at 160.02 161.29 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62541b75-9ea9-41e3-aa23-f924c33e3e1d)
-    (property "Reference" "#PWR0115" (at 153.67 161.29 0)
+    (property "Reference" "#PWR0315" (at 153.67 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 161.29 0)
@@ -6590,9 +6533,6 @@
     (pin "1" (uuid 0108774c-c3ae-4870-a5fd-af699b94125e))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0115") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0315") (unit 1)
         )
@@ -6603,7 +6543,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 227.33 146.05 0) (unit 11)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62f98d5f-ba5e-4799-9d19-f00a5309e5e1)
-    (property "Reference" "J101" (at 238.76 144.78 0)
+    (property "Reference" "J301" (at 238.76 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 238.76 147.32 0)
@@ -6832,9 +6772,6 @@
     (pin "9_16" (uuid 44cf4add-85c1-42bb-ad55-dd87e53bfa46))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 11)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 11)
         )
@@ -6845,7 +6782,7 @@
   (symbol (lib_id "power:GND") (at 212.09 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 70e3c1fb-b4bc-4079-b1cc-4273aade16bd)
-    (property "Reference" "#PWR0122" (at 205.74 156.21 0)
+    (property "Reference" "#PWR0322" (at 205.74 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 156.21 0)
@@ -6860,9 +6797,6 @@
     (pin "1" (uuid a741658d-99f0-41af-88f4-49840e27e1c0))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0122") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0322") (unit 1)
         )
@@ -6873,7 +6807,7 @@
   (symbol (lib_id "power:GND") (at 160.02 77.47 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 711fbe43-6db1-4f86-849b-3bee89e26b7a)
-    (property "Reference" "#PWR0110" (at 153.67 77.47 0)
+    (property "Reference" "#PWR0310" (at 153.67 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 77.47 0)
@@ -6888,9 +6822,6 @@
     (pin "1" (uuid 953fbf74-08b6-461e-b533-3df027ad860a))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0110") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0310") (unit 1)
         )
@@ -6950,7 +6881,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 175.26 106.68 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 778122e7-3cff-45fc-a1a8-ab0621981477)
-    (property "Reference" "J101" (at 186.69 105.41 0)
+    (property "Reference" "J301" (at 186.69 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 186.69 107.95 0)
@@ -7179,9 +7110,6 @@
     (pin "9_16" (uuid c6bde661-3aae-4068-ada8-cb2d98578e03))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 6)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 6)
         )
@@ -7192,7 +7120,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 278.13 106.68 0) (unit 14)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8d0f3b77-38c6-4726-9c4e-f05581a3ff94)
-    (property "Reference" "J101" (at 289.56 105.41 0)
+    (property "Reference" "J301" (at 289.56 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 289.56 107.95 0)
@@ -7421,9 +7349,6 @@
     (pin "9_16" (uuid d847c7ed-ca79-4c76-9d49-17b86fa1896b))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 14)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 14)
         )
@@ -7434,7 +7359,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 119.38 106.68 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ebaa9ec-cad3-4d56-aa2c-7f6eb23bb405)
-    (property "Reference" "J101" (at 130.81 105.41 0)
+    (property "Reference" "J301" (at 130.81 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 130.81 107.95 0)
@@ -7663,9 +7588,6 @@
     (pin "9_16" (uuid 2b3b68c0-62e9-46ad-af12-03c8a640839a))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 2)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 2)
         )
@@ -7676,7 +7598,7 @@
   (symbol (lib_id "power:GND") (at 160.02 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8f60a21f-a62b-4b97-b81b-f63a28469ab0)
-    (property "Reference" "#PWR0113" (at 153.67 121.92 0)
+    (property "Reference" "#PWR0313" (at 153.67 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 121.92 0)
@@ -7691,9 +7613,6 @@
     (pin "1" (uuid ee3d598e-642c-45a3-bf56-f37d45b2c2a3))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0113") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0313") (unit 1)
         )
@@ -7704,7 +7623,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 227.33 185.42 0) (unit 12)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 91e34f85-036a-449d-84b2-f752a34dd4f8)
-    (property "Reference" "J101" (at 238.76 184.15 0)
+    (property "Reference" "J301" (at 238.76 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 238.76 186.69 0)
@@ -7933,9 +7852,6 @@
     (pin "9_16" (uuid 14cefe56-1030-4415-a75a-3c447353f157))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 12)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 12)
         )
@@ -7946,7 +7862,7 @@
   (symbol (lib_id "power:GND") (at 104.14 116.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 96c9a7f7-e5d9-4357-a330-cb6db5124e81)
-    (property "Reference" "#PWR0104" (at 97.79 116.84 0)
+    (property "Reference" "#PWR0304" (at 97.79 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 116.84 0)
@@ -7961,9 +7877,6 @@
     (pin "1" (uuid fb1ae5fa-ac66-4cdd-bd91-5f8a1419c713))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0104") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0304") (unit 1)
         )
@@ -7974,7 +7887,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 278.13 67.31 0) (unit 13)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1b42bb6-d026-475d-a7b4-df64b049619b)
-    (property "Reference" "J101" (at 289.56 66.04 0)
+    (property "Reference" "J301" (at 289.56 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 289.56 68.58 0)
@@ -8203,9 +8116,6 @@
     (pin "9_16" (uuid 1cf1e6a7-15be-43cf-b7da-bfba96f73725))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 13)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 13)
         )
@@ -8216,7 +8126,7 @@
   (symbol (lib_id "power:GND") (at 262.89 82.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a4d0c88a-b229-4170-a4d8-cb3b082a2429)
-    (property "Reference" "#PWR0127" (at 256.54 82.55 0)
+    (property "Reference" "#PWR0327" (at 256.54 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 82.55 0)
@@ -8231,9 +8141,6 @@
     (pin "1" (uuid f2f82636-2d98-4906-ac34-c15c32263960))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0127") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0327") (unit 1)
         )
@@ -8244,7 +8151,7 @@
   (symbol (lib_id "power:GND") (at 212.09 195.58 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aeb07bd8-3321-4963-b5fe-7fc7ed3ec0b4)
-    (property "Reference" "#PWR0124" (at 205.74 195.58 0)
+    (property "Reference" "#PWR0324" (at 205.74 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 195.58 0)
@@ -8259,9 +8166,6 @@
     (pin "1" (uuid 5fb21a9d-19e2-4075-b12e-a052bb807bb4))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0124") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0324") (unit 1)
         )
@@ -8370,7 +8274,7 @@
   (symbol (lib_id "power:GND") (at 160.02 200.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c58d3276-ee78-4c81-914c-ee4650ac1afe)
-    (property "Reference" "#PWR0117" (at 153.67 200.66 0)
+    (property "Reference" "#PWR0317" (at 153.67 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 154.94 200.66 0)
@@ -8385,9 +8289,6 @@
     (pin "1" (uuid f1ce93d5-d269-42d9-b346-3e2c1542cd0b))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0117") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0317") (unit 1)
         )
@@ -8398,7 +8299,7 @@
   (symbol (lib_id "power:GND") (at 262.89 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c59b9b16-e199-4550-ad47-e0900d7dbd18)
-    (property "Reference" "#PWR0130" (at 256.54 156.21 0)
+    (property "Reference" "#PWR0330" (at 256.54 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 156.21 0)
@@ -8413,9 +8314,6 @@
     (pin "1" (uuid 4dcc0c32-233f-446d-8a3c-9a170f6d26a8))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0130") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0330") (unit 1)
         )
@@ -8426,7 +8324,7 @@
   (symbol (lib_id "power:GND") (at 212.09 161.29 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c6260bc1-341a-4280-8922-4bd8dd0ab2f8)
-    (property "Reference" "#PWR0123" (at 205.74 161.29 0)
+    (property "Reference" "#PWR0323" (at 205.74 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 161.29 0)
@@ -8441,9 +8339,6 @@
     (pin "1" (uuid 4a21bead-998d-4df7-a1f3-0fa46170041f))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0123") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0323") (unit 1)
         )
@@ -8454,7 +8349,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 175.26 146.05 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c774dc09-8a39-4c95-9608-d14a886d6d75)
-    (property "Reference" "J101" (at 186.69 144.78 0)
+    (property "Reference" "J301" (at 186.69 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 186.69 147.32 0)
@@ -8683,9 +8578,6 @@
     (pin "9_16" (uuid dd98ca02-95c4-48c6-bb45-492831b5f0b4))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 7)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 7)
         )
@@ -8696,7 +8588,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 119.38 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd447977-8be2-4288-9034-695db5e45472)
-    (property "Reference" "J101" (at 132.08 64.77 0)
+    (property "Reference" "J301" (at 132.08 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 132.08 67.31 0)
@@ -8925,9 +8817,6 @@
     (pin "9_16" (uuid 90ada6f0-61b0-4144-a283-3561fa31ccb1))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 1)
         )
@@ -8938,7 +8827,7 @@
   (symbol (lib_id "power:GND") (at 104.14 82.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d0683179-c435-4939-90cf-ac3b9aff2635)
-    (property "Reference" "#PWR0103" (at 97.79 82.55 0)
+    (property "Reference" "#PWR0303" (at 97.79 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 82.55 0)
@@ -8953,9 +8842,6 @@
     (pin "1" (uuid 50d920f3-3e62-41bf-b7cf-807dfa3502ba))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0103") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0303") (unit 1)
         )
@@ -8966,7 +8852,7 @@
   (symbol (lib_id "power:GND") (at 212.09 116.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d54e6371-61c8-4f82-81af-d63b3f783584)
-    (property "Reference" "#PWR0120" (at 205.74 116.84 0)
+    (property "Reference" "#PWR0320" (at 205.74 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 116.84 0)
@@ -8981,9 +8867,6 @@
     (pin "1" (uuid cbef7020-9d29-4832-9be9-bf0b637c2e2e))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0120") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0320") (unit 1)
         )
@@ -8994,7 +8877,7 @@
   (symbol (lib_id "power:GND") (at 262.89 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d58e672c-6cfc-40e3-9367-d58622926431)
-    (property "Reference" "#PWR0129" (at 256.54 121.92 0)
+    (property "Reference" "#PWR0329" (at 256.54 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 121.92 0)
@@ -9009,9 +8892,6 @@
     (pin "1" (uuid b1ad7bfd-46f9-4035-9f6f-8b67daa4befb))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0129") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0329") (unit 1)
         )
@@ -9022,7 +8902,7 @@
   (symbol (lib_id "power:GND") (at 262.89 116.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d706ad44-d622-4377-8e19-fd8a6af74f55)
-    (property "Reference" "#PWR0128" (at 256.54 116.84 0)
+    (property "Reference" "#PWR0328" (at 256.54 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 116.84 0)
@@ -9037,9 +8917,6 @@
     (pin "1" (uuid 8cdd13d6-0d57-4122-b5af-a6e3d38bc96b))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0128") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0328") (unit 1)
         )
@@ -9050,7 +8927,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 227.33 67.31 0) (unit 9)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9fa9f23-41ed-4fc3-b127-2d48911644e5)
-    (property "Reference" "J101" (at 238.76 66.04 0)
+    (property "Reference" "J301" (at 238.76 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 238.76 68.58 0)
@@ -9279,9 +9156,6 @@
     (pin "9_16" (uuid 58a4d057-cc14-4ff0-9b51-0a247ae3e826))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 9)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 9)
         )
@@ -9292,7 +9166,7 @@
   (symbol (lib_id "power:GND") (at 104.14 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de414ebf-c7b8-4314-8249-4747017506b6)
-    (property "Reference" "#PWR0106" (at 97.79 156.21 0)
+    (property "Reference" "#PWR0306" (at 97.79 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 156.21 0)
@@ -9307,9 +9181,6 @@
     (pin "1" (uuid 220e145f-1980-4c57-89a9-e5d27afdd6bf))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0106") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0306") (unit 1)
         )
@@ -9320,7 +9191,7 @@
   (symbol (lib_id "power:GND") (at 104.14 200.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e06dcaf1-d68e-49f9-81a4-5e6598d051e8)
-    (property "Reference" "#PWR0109" (at 97.79 200.66 0)
+    (property "Reference" "#PWR0309" (at 97.79 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 200.66 0)
@@ -9335,9 +9206,6 @@
     (pin "1" (uuid 3d05800b-612f-4324-8c8a-ceaaccac9b18))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0109") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0309") (unit 1)
         )
@@ -9348,7 +9216,7 @@
   (symbol (lib_id "power:GND") (at 212.09 200.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e31b3a70-dff6-4f4e-b85c-90e2573f564a)
-    (property "Reference" "#PWR0125" (at 205.74 200.66 0)
+    (property "Reference" "#PWR0325" (at 205.74 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 200.66 0)
@@ -9363,9 +9231,6 @@
     (pin "1" (uuid 7a52ee30-0510-45bb-a6fe-d53f72f84c02))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0125") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0325") (unit 1)
         )
@@ -9376,7 +9241,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 278.13 185.42 0) (unit 16)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea288a23-d2ba-4d8a-b46c-d12465705bf7)
-    (property "Reference" "J101" (at 289.56 184.15 0)
+    (property "Reference" "J301" (at 289.56 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 289.56 186.69 0)
@@ -9605,9 +9470,6 @@
     (pin "9_16" (uuid 02d8c61e-b428-4e56-86e7-981f176a73f1))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 16)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 16)
         )
@@ -9618,7 +9480,7 @@
   (symbol (lib_id "power:GND") (at 212.09 77.47 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd70d91d-2ca6-4b65-8005-c997c2821d9f)
-    (property "Reference" "#PWR0118" (at 205.74 77.47 0)
+    (property "Reference" "#PWR0318" (at 205.74 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 77.47 0)
@@ -9633,9 +9495,6 @@
     (pin "1" (uuid 2c038612-4dff-4275-84a6-fced7a9fe907))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0118") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0318") (unit 1)
         )
@@ -9646,7 +9505,7 @@
   (symbol (lib_id "connectors:SS-74500-022") (at 119.38 185.42 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe05acd7-e00d-49ee-90fd-3cf77f2a4719)
-    (property "Reference" "J101" (at 130.81 184.15 0)
+    (property "Reference" "J301" (at 130.81 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SS-74500-022" (at 130.81 186.69 0)
@@ -9875,9 +9734,6 @@
     (pin "9_16" (uuid 9b47893b-e636-4ebb-8ac5-3224d9682af9))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "J101") (unit 4)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "J301") (unit 4)
         )
@@ -9888,7 +9744,7 @@
   (symbol (lib_id "power:GND") (at 104.14 195.58 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe43665a-0057-49bb-8089-dd7dd6d7eac3)
-    (property "Reference" "#PWR0108" (at 97.79 195.58 0)
+    (property "Reference" "#PWR0308" (at 97.79 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 195.58 0)
@@ -9903,9 +9759,6 @@
     (pin "1" (uuid 612349d9-b7ab-474c-bd37-9d7fd7d2ad75))
     (instances
       (project "ether"
-        (path "/4549bc5e-1e8c-414f-881d-1ff38d482663"
-          (reference "#PWR0108") (unit 1)
-        )
         (path "/4549bc5e-1e8c-414f-881d-1ff38d482663/b6178f7e-3050-4c5f-b1c3-182f4712b669"
           (reference "#PWR0308") (unit 1)
         )
