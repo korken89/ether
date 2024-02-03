@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -491,7 +491,19 @@
     ],
     [
       "b6178f7e-3050-4c5f-b1c3-182f4712b669",
-      "Input Port"
+      "Input Port 1"
+    ],
+    [
+      "7d33e5de-0b3a-4006-8916-ad1333e04f2e",
+      "Input Port 2"
+    ],
+    [
+      "f4be2425-a53b-41f8-8f7f-0cbb5d597191",
+      "Input Port 3"
+    ],
+    [
+      "a330f92a-0bd3-4aab-944a-c3f9c297daf8",
+      "Input Port 4"
     ]
   ],
   "text_variables": {}
